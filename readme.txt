@@ -1,2 +1,2 @@
-hello world!
-This it git!
+Hello world~
+This it Git!
